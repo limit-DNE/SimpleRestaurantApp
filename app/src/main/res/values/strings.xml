@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Simple Restaurant App</string>
+    <string name="create_order">Create Order</string>
+    <string name="share">Share</string>
+    <string name="restaurant_name">Fuggini Italian Restaurant</string>
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+        <item>Meat Lover</item>
+        <item>Four Cheese</item>
+        <item>Vegan Delight</item>
+        <item>Pepperoni</item>
+        <item>Vegetarian</item>
+        <item>Greek Style</item>
+        <item>Margherita</item>
+        <item>Capricciosa</item>
+        <item>Napolitana</item>
+        <item>Hawaii</item>
+        <item>Quattro</item>
+        <item>Rucola</item>
+    </string-array>
+    <string-array name="pastas">
+        <item>Gnocchi with Minced Meat</item>
+        <item>Greek Style Marinated Feta Penne</item>
+        <item>Pasta with Spring Vegetables</item>
+        <item>Pasta Bolognese</item>
+        <item>Mac and Cheese</item>
+        <item>Chicken and Sausage Tagliatelle</item>
+        <item>Spinach and Cheese Stuffed Shells</item>
+        <item>Bucatini with Ricotta</item>
+        <item>Vegan Pasta Salad</item>
+        <item>Prosciutto Penne</item>
+        <item>Pasta Pesto</item>
+        <item>Pepper Gnudi with Mushrooms</item>
+        <item>Asparagus Fra Diavolo</item>
+        <item>Linguine with Garlic Shrimp</item>
+        <item>Parmesan Spaghetti</item>
+        <item>Vegetarian Pasta Bolognese</item>
+    </string-array>
+    <string-array name="stores">
+        <item>Istanbul Bahcesehir</item>
+        <item>Istanbul Sirinevler</item>
+        <item>Istanbul Kadikoy</item>
+        <item>Istanbul Taksim</item>
+        <item>Ankara Cankaya</item>
+        <item>Ankara Kizilay</item>
+    </string-array>
+    <string name="home_text">Since we opened our doors in 2017, Fuggini Italian Restaurant
+        has built its reputation as one of America’s best Italian-Digital restaurants.
+        Some people believe eating out is about being with your friends and family.
+        We believe that good food is best enjoyed while staring at your phone.</string>
+    <string name="our_pizzas">Our Pizzas</string>
+    <string name="about_pizzas">Tasty, fragrant, perfect in its majestic simplicity. Soft and thin dough, tall and golden edges,
+        cooked exclusively in a wood burning oven and under traditional Neapolitan instructions.</string>
+    <string name="our_pastas">Our Pastas</string>
+    <string name="about_pastas">Simply the most flavorful dried pastas you will ever eat, with the dense chew of the best pastas from Italy.
+        All of our pastas are extruded through bronze dies, and then slow dried to perfection.
+        Certified organic, and 100% egg and nut free.</string>
+    <string name="locations">Locations</string>
+    <string name="about_locations">Currently we have restaurants in Istanbul and Ankara. In Istanbul, we are available at
+        Bahcesehir, Taksim, Kadikoy and Sirinevler. Our Ankara stores are located in Cankaya and Kizilay.</string>
+    <string name="menu_image">Decorative image of a menu cover</string>
+    <string name="enter_name_hint">Please enter your name</string>
+    <string name="enter_address_hint">Please enter delivery address</string>
+    <string name="enter_order_hint">Please state your order</string>
+    <string name="order">A waiter taking orders</string>
+</resources>
